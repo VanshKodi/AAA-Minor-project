@@ -24,9 +24,9 @@ dist-ssr
 *.sw?
 
 # ===== ENV FILES =====
-.env
-.env.local
-.env.*.local
+*.env
+*.env.local
+*.env.*.local
 
 # ===== PYTHON =====
 __pycache__/
